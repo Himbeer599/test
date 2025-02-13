@@ -8,6 +8,7 @@ public class Main {
         int b = 3;
         int sum = a+b;
         System.out.println("sum: "+sum);
+        System.out.println(a - b);
         System.out.println(a / b);
     }
 }
